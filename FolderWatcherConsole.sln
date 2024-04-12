@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FolderWatcherConsole", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FolderWatcher_setup", "FolderWatcher_setup\FolderWatcher_setup.vdproj", "{E5E925A9-8E38-4CF5-A653-DA139BEC8517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Debug|x64.ActiveCfg = Debug|x64
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Debug|x64.Build.0 = Debug|x64
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Debug|x86.Build.0 = Debug|Win32
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Release|x64.ActiveCfg = Release|x64
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Release|x64.Build.0 = Release|x64
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Release|x86.ActiveCfg = Release|Win32
+		{FD7B0171-73F9-4F12-BEEE-38E18D0DA633}.Release|x86.Build.0 = Release|Win32
+		{E5E925A9-8E38-4CF5-A653-DA139BEC8517}.Debug|x64.ActiveCfg = Debug
+		{E5E925A9-8E38-4CF5-A653-DA139BEC8517}.Debug|x86.ActiveCfg = Debug
+		{E5E925A9-8E38-4CF5-A653-DA139BEC8517}.Release|x64.ActiveCfg = Release
+		{E5E925A9-8E38-4CF5-A653-DA139BEC8517}.Release|x64.Build.0 = Release
+		{E5E925A9-8E38-4CF5-A653-DA139BEC8517}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C2C72C5-6ACB-4405-AFA2-D2AE0DA8A0D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (WndFolderWatcherTest1.vcxproj, WndFolderWatcherTestРабочий Console.vcxproj, WndFolderWatcherTestРабочий1.vcxproj, WndWatcherStarii.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GetLocalFileSizeClass.cpp
+  GetFileSizeFromUrlClass.cpp
+  ReplaceLocalFileWithFileFromUrlClass.cpp
+  TranslitClass.cpp
+  TgClass.cpp
+E:\VS\FolderWatcher_Console\ConsoleApplication1\TgClass.cpp(50,115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+E:\VS\FolderWatcher_Console\ConsoleApplication1\LoadDBClass.h(31,2): warning C4091: 'static ': ignored on left of 'LoadDBClass' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+E:\VS\FolderWatcher_Console\ConsoleApplication1\main.cpp(93,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+E:\VS\FolderWatcher_Console\ConsoleApplication1\main.cpp(100,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\VS\FolderWatcher_Console\ConsoleApplication1\main.cpp(103,37): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\VS\FolderWatcher_Console\ConsoleApplication1\main.cpp(118,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\VS\FolderWatcher_Console\ConsoleApplication1\main.cpp(261,15): warning C4018: '>': signed/unsigned mismatch
+  DisplayPathInfoClass.cpp
+  LoadDBClass.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+E:\VS\FolderWatcher_Console\ConsoleApplication1\LoadDBClass.h(31,2): warning C4091: 'static ': ignored on left of 'LoadDBClass' when no variable is declared
+  (compiling source file 'LoadDBClass.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1261 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> E:\VS\FolderWatcher_Console\x64\Release\FolderWatcherConsole.exe
