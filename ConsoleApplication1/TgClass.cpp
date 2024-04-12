@@ -12,8 +12,8 @@ bool TgClass::TgVoid() {
 
 	std::string pathSlovar = "c:\\Users\\AlaniaDesign4\\Documents\\ansiSlovar.txt";
 	//std::string pathSlovar = "c:\\Users\\dgagi\\Desktop\\ansiSlovar.txt";
-	const std::string botToken = "6763932194:AAEqlcU2cI8pYbDekyw6-rIUlpi9Hq5Rvfs";
-	const std::string chatId = "968221257"; // Замените "YOUR_CHAT_ID" на идентификатор чата 968221257
+	const std::string botToken = "6763932194:w6-rIUlpi9Hq5Rvfs";
+	const std::string chatId = "91257"; // Г‡Г Г¬ГҐГ­ГЁГІГҐ "YOUR_CHAT_ID" Г­Г  ГЁГ¤ГҐГ­ГІГЁГґГЁГЄГ ГІГ®Г° Г·Г ГІГ  968221257
 
 	CURL* curl;
 	CURLcode res;
